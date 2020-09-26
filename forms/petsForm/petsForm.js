@@ -1,3 +1,4 @@
+
 let petNames = ["Darcy", "Jack", "Jerry", "Marty", "Vito", "Vinny", "Riley", "Saddie", "Marge", "Sam"];
 let withMarmaduke = petNames.push("Marmaduke")
 console.log(petNames.length)
